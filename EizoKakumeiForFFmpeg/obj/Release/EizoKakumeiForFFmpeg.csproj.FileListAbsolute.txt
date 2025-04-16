@@ -1,0 +1,17 @@
+C:\Users\rinna\Documents\projects\EizoKakumeiForFFmpeg\EizoKakumeiForFFmpeg\bin\Release\EizoKakumeiForFFmpeg.exe.config
+C:\Users\rinna\Documents\projects\EizoKakumeiForFFmpeg\EizoKakumeiForFFmpeg\bin\Release\EizoKakumeiForFFmpeg.exe
+C:\Users\rinna\Documents\projects\EizoKakumeiForFFmpeg\EizoKakumeiForFFmpeg\bin\Release\EizoKakumeiForFFmpeg.pdb
+C:\Users\rinna\Documents\projects\EizoKakumeiForFFmpeg\EizoKakumeiForFFmpeg\bin\Release\Microsoft.WindowsAPICodePack.dll
+C:\Users\rinna\Documents\projects\EizoKakumeiForFFmpeg\EizoKakumeiForFFmpeg\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\rinna\Documents\projects\EizoKakumeiForFFmpeg\EizoKakumeiForFFmpeg\bin\Release\Newtonsoft.Json.dll
+C:\Users\rinna\Documents\projects\EizoKakumeiForFFmpeg\EizoKakumeiForFFmpeg\bin\Release\Microsoft.WindowsAPICodePack.xml
+C:\Users\rinna\Documents\projects\EizoKakumeiForFFmpeg\EizoKakumeiForFFmpeg\bin\Release\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\rinna\Documents\projects\EizoKakumeiForFFmpeg\EizoKakumeiForFFmpeg\bin\Release\Newtonsoft.Json.xml
+C:\Users\rinna\Documents\projects\EizoKakumeiForFFmpeg\EizoKakumeiForFFmpeg\obj\Release\EizoKakumeiForFFmpeg.csproj.AssemblyReference.cache
+C:\Users\rinna\Documents\projects\EizoKakumeiForFFmpeg\EizoKakumeiForFFmpeg\obj\Release\EizoKakumeiForFFmpeg.MainWindow.resources
+C:\Users\rinna\Documents\projects\EizoKakumeiForFFmpeg\EizoKakumeiForFFmpeg\obj\Release\EizoKakumeiForFFmpeg.Properties.Resources.resources
+C:\Users\rinna\Documents\projects\EizoKakumeiForFFmpeg\EizoKakumeiForFFmpeg\obj\Release\EizoKakumeiForFFmpeg.csproj.GenerateResource.cache
+C:\Users\rinna\Documents\projects\EizoKakumeiForFFmpeg\EizoKakumeiForFFmpeg\obj\Release\EizoKakumeiForFFmpeg.csproj.CoreCompileInputs.cache
+C:\Users\rinna\Documents\projects\EizoKakumeiForFFmpeg\EizoKakumeiForFFmpeg\obj\Release\EizoKaku.CA28DC4C.Up2Date
+C:\Users\rinna\Documents\projects\EizoKakumeiForFFmpeg\EizoKakumeiForFFmpeg\obj\Release\EizoKakumeiForFFmpeg.exe
+C:\Users\rinna\Documents\projects\EizoKakumeiForFFmpeg\EizoKakumeiForFFmpeg\obj\Release\EizoKakumeiForFFmpeg.pdb

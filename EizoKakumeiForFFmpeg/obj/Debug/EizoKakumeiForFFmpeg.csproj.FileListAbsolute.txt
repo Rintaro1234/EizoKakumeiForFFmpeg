@@ -1,0 +1,17 @@
+C:\Users\rinna\Documents\projects\EizoKakumeiForFFmpeg\EizoKakumeiForFFmpeg\bin\Debug\EizoKakumeiForFFmpeg.exe.config
+C:\Users\rinna\Documents\projects\EizoKakumeiForFFmpeg\EizoKakumeiForFFmpeg\bin\Debug\EizoKakumeiForFFmpeg.exe
+C:\Users\rinna\Documents\projects\EizoKakumeiForFFmpeg\EizoKakumeiForFFmpeg\bin\Debug\EizoKakumeiForFFmpeg.pdb
+C:\Users\rinna\Documents\projects\EizoKakumeiForFFmpeg\EizoKakumeiForFFmpeg\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\rinna\Documents\projects\EizoKakumeiForFFmpeg\EizoKakumeiForFFmpeg\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\rinna\Documents\projects\EizoKakumeiForFFmpeg\EizoKakumeiForFFmpeg\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rinna\Documents\projects\EizoKakumeiForFFmpeg\EizoKakumeiForFFmpeg\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\rinna\Documents\projects\EizoKakumeiForFFmpeg\EizoKakumeiForFFmpeg\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\rinna\Documents\projects\EizoKakumeiForFFmpeg\EizoKakumeiForFFmpeg\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rinna\Documents\projects\EizoKakumeiForFFmpeg\EizoKakumeiForFFmpeg\obj\Debug\EizoKakumeiForFFmpeg.csproj.AssemblyReference.cache
+C:\Users\rinna\Documents\projects\EizoKakumeiForFFmpeg\EizoKakumeiForFFmpeg\obj\Debug\EizoKakumeiForFFmpeg.MainWindow.resources
+C:\Users\rinna\Documents\projects\EizoKakumeiForFFmpeg\EizoKakumeiForFFmpeg\obj\Debug\EizoKakumeiForFFmpeg.Properties.Resources.resources
+C:\Users\rinna\Documents\projects\EizoKakumeiForFFmpeg\EizoKakumeiForFFmpeg\obj\Debug\EizoKakumeiForFFmpeg.csproj.GenerateResource.cache
+C:\Users\rinna\Documents\projects\EizoKakumeiForFFmpeg\EizoKakumeiForFFmpeg\obj\Debug\EizoKakumeiForFFmpeg.csproj.CoreCompileInputs.cache
+C:\Users\rinna\Documents\projects\EizoKakumeiForFFmpeg\EizoKakumeiForFFmpeg\obj\Debug\EizoKaku.CA28DC4C.Up2Date
+C:\Users\rinna\Documents\projects\EizoKakumeiForFFmpeg\EizoKakumeiForFFmpeg\obj\Debug\EizoKakumeiForFFmpeg.exe
+C:\Users\rinna\Documents\projects\EizoKakumeiForFFmpeg\EizoKakumeiForFFmpeg\obj\Debug\EizoKakumeiForFFmpeg.pdb
